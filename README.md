@@ -27,6 +27,14 @@ A collection of diverse solutions for various Kaggle competitions. Explore a ran
   <img src="https://github.com/SG-Hangaan/Kaggle-Competition-Solutions/assets/127215110/4e001939-f630-40fa-8dfa-2406c11f3709"/>
 </p>
 
+<p align="center">
+  <img src=""/>
+</p>
+
+ONGOING
+<p align="center">
+  <img src="https://github.com/SG-Hangaan/Kaggle-Competition-Solutions/assets/127215110/602d1307-821b-4787-abf0-524cbfa8e746"/>
+</p>
 
 
 
